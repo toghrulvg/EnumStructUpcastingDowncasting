@@ -1,0 +1,11 @@
+C:\Users\toghrulvg\source\repos\EnumStructUpcastingDowncasting\EnumStructUpcastingDowncasting\bin\Debug\netcoreapp2.2\EnumStructUpcastingDowncasting.deps.json
+C:\Users\toghrulvg\source\repos\EnumStructUpcastingDowncasting\EnumStructUpcastingDowncasting\bin\Debug\netcoreapp2.2\EnumStructUpcastingDowncasting.runtimeconfig.json
+C:\Users\toghrulvg\source\repos\EnumStructUpcastingDowncasting\EnumStructUpcastingDowncasting\bin\Debug\netcoreapp2.2\EnumStructUpcastingDowncasting.runtimeconfig.dev.json
+C:\Users\toghrulvg\source\repos\EnumStructUpcastingDowncasting\EnumStructUpcastingDowncasting\bin\Debug\netcoreapp2.2\EnumStructUpcastingDowncasting.dll
+C:\Users\toghrulvg\source\repos\EnumStructUpcastingDowncasting\EnumStructUpcastingDowncasting\bin\Debug\netcoreapp2.2\EnumStructUpcastingDowncasting.pdb
+C:\Users\toghrulvg\source\repos\EnumStructUpcastingDowncasting\EnumStructUpcastingDowncasting\obj\Debug\netcoreapp2.2\EnumStructUpcastingDowncasting.csprojAssemblyReference.cache
+C:\Users\toghrulvg\source\repos\EnumStructUpcastingDowncasting\EnumStructUpcastingDowncasting\obj\Debug\netcoreapp2.2\EnumStructUpcastingDowncasting.csproj.CoreCompileInputs.cache
+C:\Users\toghrulvg\source\repos\EnumStructUpcastingDowncasting\EnumStructUpcastingDowncasting\obj\Debug\netcoreapp2.2\EnumStructUpcastingDowncasting.AssemblyInfoInputs.cache
+C:\Users\toghrulvg\source\repos\EnumStructUpcastingDowncasting\EnumStructUpcastingDowncasting\obj\Debug\netcoreapp2.2\EnumStructUpcastingDowncasting.AssemblyInfo.cs
+C:\Users\toghrulvg\source\repos\EnumStructUpcastingDowncasting\EnumStructUpcastingDowncasting\obj\Debug\netcoreapp2.2\EnumStructUpcastingDowncasting.dll
+C:\Users\toghrulvg\source\repos\EnumStructUpcastingDowncasting\EnumStructUpcastingDowncasting\obj\Debug\netcoreapp2.2\EnumStructUpcastingDowncasting.pdb
